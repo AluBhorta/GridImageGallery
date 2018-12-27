@@ -1,6 +1,6 @@
-# Image Grid Gallery
+# Grid Image Gallery
 
-A responsive image gallery using CSS Grid.
+An exercise to build a responsive image gallery using CSS Grid.
 
 .
 
