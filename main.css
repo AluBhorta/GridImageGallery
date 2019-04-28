@@ -9,6 +9,12 @@ html {
   background: linear-gradient(to right, #f93066, #6047d9);
 }
 
+.header {
+  padding: 1rem 3rem;
+  text-align: center;
+  border-bottom: #333 1px solid;
+}
+
 .close {
   background: none;
   padding: 0.5rem;
@@ -26,6 +32,8 @@ html {
   grid-template-columns: repeat(auto-fill, 100px);
   grid-auto-rows: 100px;
   grid-auto-flow: dense;
+  justify-content: center;
+  margin-top: 2rem;
 }
 
 .item {
